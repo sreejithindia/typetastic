@@ -38,6 +38,9 @@ let typeTastic = {
 		this.symbol = document.getElementById("symbol").value;  
 		this.number = +document.getElementById("number").value;  
 		this.output = '';
+		if(this.QueText) {
+			this.QueText = this.QueText.trim();
+		}
 		switch (this.QueType) {
 			case 1:
 				output = this.Type1();
