@@ -1,0 +1,52 @@
+TYPE 1 :
+Remove all the numbers from the given sentence.
+ Q : T1y2p3e4T5a6s7t8i9c10  o11f3f5e8r7s a k9ey9b9o9a9r6d6i6ng c9u7r43r55icul07u6m (30 SEC / TYPE 1)
+ A : TypeTastic offers a keyboarding curriculum
+
+TYPE 2 :
+Insert the given type characters alternativiely in between each letters in the same order. Remove space if any.  
+ Q : This is very easy (30 SEC / TYPE 2 @#)
+ A : T@h#i@s#i@s#v@e#r@y#e@a#s@y
+
+TYPE 3 :
+ Insert  the integer and alphabet combos (a1,b2,c3...z26...a27,b28....) in an incremented order in between each letter the given sentence. Remove space if any.
+ Q : not valid answer (30 SEC / TYPE 3)
+ A : na1ob2tc3vd4ae5lf6ig7dh8ai9nj10sk11wl12em13r
+
+TYPE 4 :
+Insert the given type character in between each letters. Remove space if any.  
+ Q : This is very easy (30 SEC / TYPE 4 @)
+ A : T@h@i@s@i@s@v@e@r@y@e@a@s@y
+
+TYPE 5 :
+Insert the alphabets(small) in between each letters should be in order. alphabet can repeat after z. Remove space if any.
+Q : This is very easy (30 SEC / TYPE 5)
+A : Tahbicsdiesfvgehriyjekalsmy
+TYPE 6 :
+Insert the integers in an incremented order in between each letter the given sentence. Remove space if any.
+ Q : will post the next level (30 SEC / TYPE 6)
+ A : w1i2l3l4p5o6s7t8t9h10e11n12e13x14t15l16e17v18e19l
+ 
+TYPE 7 :
+Insert the given type characters in the same and reverse order alternativiely between each letters. Remove space if any.  
+ if @# is the type variable. then fill <letter>@#<letter>#@<letter>@#<letter>#@<letter>
+
+ Q : This is very easy (30 SEC / TYPE 7 @#)
+ A : T@#h#@i@#s#@i@#s#@v@#e#@r@#y#@e@#a#@s@#y
+ 
+TYPE 8 :
+ Insert the multiple of given type number in between each letters. Remove space if any.  
+ Q : This is very easy (20 SEC / TYPE 8 2)
+ A : T2h4i6s8i10s12v14e16r18y20e22a24s26y
+ 
+TYPE 9 :
+ Insert the given type symbol in the incremental order of 1 in between each letters. Remove space if any.  
+ Q : This is very easy (20 SEC / TYPE 9 @)
+ A : T@h@@i@@@s@@@@i@@@@@s@@@@@@v@@@@@@@e@@@@@@@@r@@@@@@@@@y@@@@@@@@@@e@@@@@@@@@@@a@@@@@@@@@@@@s@@@@@@@@@@@@@y
+ 
+TYPE 10 :
+ Insert the symbol,alphabet and number combo in the incremental order of 1 in between each letters as shown in the sample . Remove space if any.  
+  @<LOWERCASE LETTER><UPPERCASE LETTER><NUMBER>  (Number should be in incremental order. alphabet can repeat after z.) eg: @aA1...@bB2.....
+ 
+ Q : This is very easy (20 SEC / TYPE 10)
+ A : T@aA1h@bB2i@cC3s@dD4i@eE5s@fF6v@gG7e@hH8r@iI9y@jJ10e@kK11a@lL12s@mM13y

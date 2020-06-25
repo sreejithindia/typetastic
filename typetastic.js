@@ -151,8 +151,12 @@ let typeTastic = {
       if (i < QueText.length - 1) {
         output += c;
       }
-      c = this.nextChar(c);
-      if (c == 'z') c = 'a';
+      if (c == 'z') {
+        c = 'a';
+      } else {
+        c = this.nextChar(c);
+      }
+      
     }
     return output;
   },
@@ -234,10 +238,14 @@ let typeTastic = {
       if (i < QueText.length - 1) {
         output += this.symbol + c + c2 + j;
       }
-      c = this.nextChar(c);
-      c2 = this.nextChar(c2);
-      if (c == 'z') c = 'a';
-      if (c2 == 'Z') c = 'A';
+      
+      if (c == 'z') {
+        c = 'a';
+        c2 = 'A'
+      } else {
+        c = this.nextChar(c);
+        c2 = this.nextChar(c2);
+      }
       j++;
     }
     return output;
