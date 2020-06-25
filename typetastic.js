@@ -81,6 +81,7 @@ let typeTastic = {
     copyText.select();
     document.execCommand("copy");
     console.log(copyText.value);
+    console.log("Akil changed this");
   },
 
 
