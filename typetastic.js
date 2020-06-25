@@ -93,6 +93,7 @@ let typeTastic = {
   },
 
   Type2: function () {
+    console.log('Type 2');
     let output = '';
     let QueText = this.QueText;
     QueText = QueText.replace(/\s/g, '');
